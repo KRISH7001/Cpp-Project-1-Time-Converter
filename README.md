@@ -57,10 +57,12 @@ This project helps practice:
 
 📂 Project Structure
 
+```
 Time-Converter-Project/
 │
 ├── README.md
 └── Time-Converter.cpp
+```
 
 
 👨‍💻 Author
