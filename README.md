@@ -70,4 +70,3 @@ https://drive.google.com/file/d/1Rs9enR5TXoTSEM5kNJLEkWlZ5lniKIit/view?usp=shari
 
 👨‍💻 Author
 KRISH SAPARIYA
-This repository is intended for learning and practicing fundamental C++ programming concepts, especially classes, functions, arithmetic operators, and formatted console output.
